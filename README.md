@@ -1,4 +1,2 @@
-nanolab
-=======
-
-NTNU NanoLab process database
+NTNU NanoLab Process Database
+=============================
