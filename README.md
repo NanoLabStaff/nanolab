@@ -2,12 +2,12 @@
 =============================
 
 * The database is hosted as a Github Wiki [here](https://github.com/jonasribe/nanolab/wiki).
-* Discussions and new processes are handled by the GitHub Issue tracker which can be found [here](https://github.com/jonasribe/nanolab/issues)
+* Discussions and new protocols are handled by the GitHub Issue tracker which can be found [here](https://github.com/jonasribe/nanolab/issues)
 
-New processes are added manually to the wiki by NTNU NanoLab staff.
+Protocols are added manually to the wiki by NTNU NanoLab staff, but of course credited to the user who submitted it.
 
 
-# Contributing ##
+# Contributing #
 
 ## Getting started ##
 
