@@ -3,6 +3,7 @@
 
 * The database is contained within the the Github Wiki tab or [here](https://github.com/NanoLabStaff/nanolab/wiki).
 * Discussions, new protocols, and issues are handled by the GitHub Issue tracker tab or [here](https://github.com/NanoLabStaff/nanolab/issues)
+     * If you would like to contribute, there are several templates to help categorize your contribution. 
 
 Protocols are added manually to the wiki by NTNU NanoLab staff with credit to the user who submitted it.
 
