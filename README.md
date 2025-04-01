@@ -12,7 +12,6 @@ Protocols are added manually to the wiki by NTNU NanoLab staff, but of course cr
 ## Getting started ##
 
 * [Register a GitHub account](https://github.com/join)
-* If you want to use GitHub for your own projects, you can get 5 private repositories for free with the [academic discount](https://education.github.com/)
 
 ## Add a process using one of the existing templates: ##
 
