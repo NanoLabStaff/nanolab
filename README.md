@@ -1,10 +1,10 @@
 [NTNU NanoLab Process Database](https://github.com/NanoLabStaff/nanolab/wiki)
 =============================
 
-* The database is hosted as a Github Wiki [here](https://github.com/NanoLabStaff/nanolab/wiki).
-* Discussions and new protocols are handled by the GitHub Issue tracker which can be found [here](https://github.com/NanoLabStaff/nanolab/issues)
+* The database is contained within the the Github Wiki tab or [here](https://github.com/NanoLabStaff/nanolab/wiki).
+* Discussions, new protocols, and issues are handled by the GitHub Issue tracker tab or [here](https://github.com/NanoLabStaff/nanolab/issues)
 
-Protocols are added manually to the wiki by NTNU NanoLab staff, but of course credited to the user who submitted it.
+Protocols are added manually to the wiki by NTNU NanoLab staff with credit to the user who submitted it.
 
 
 # Contributing #
