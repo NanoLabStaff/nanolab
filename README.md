@@ -33,7 +33,3 @@ Protocols are added manually to the wiki by NTNU NanoLab staff, but of course cr
 ## Learn the syntax and add your own templates
 
 Text editing on GitHub is based on [Markdown](https://help.github.com/articles/markdown-basics) syntax. It is easy to learn (unlike LaTeX) and very readable (unlike HTML).
-
-## Make suggestions
-
-If there are things you want to see improve [let us know](https://github.com/NanoLabStaff/nanolab/issues/1). Like any other wiki, this is a work in progress!
